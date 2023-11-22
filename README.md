@@ -1,4 +1,4 @@
-# Image-to-Text Extraction Microservice
+# Image To Text Extraction
 
 This system is a RESTful API that takes an image file as input and returns the text content of the image as output. 
 The system uses the Tesseract OCR engine to extract text from the image.\
